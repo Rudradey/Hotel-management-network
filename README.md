@@ -17,5 +17,5 @@ Second floor: 1.Finances Depertment
 Thirt floor: 1.IT Depertment
              2.Admin Depertment
 
-
+different vlan is enable for all depertment
               
